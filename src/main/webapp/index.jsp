@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welcome Login Page</h2>
+<h2>Welcome to Login Page2</h2>
 <%
 String message = request.getParameter("message");
 if (message != null){
