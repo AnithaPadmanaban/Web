@@ -22,6 +22,7 @@ public class UserDAO {
 	        if(rs.next())
 	        {
 	        	isValidLogin=true;
+	        	
 	        }
 	        return isValidLogin;
 	    }
